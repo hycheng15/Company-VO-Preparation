@@ -1,0 +1,2 @@
+Find the second smallest element in an array. Important to take note of the word element
+For example, [4,8, 9, 2, 1, 1] should return 1, not 2. Also, if array.length is less than 2, just immediately return zero.
